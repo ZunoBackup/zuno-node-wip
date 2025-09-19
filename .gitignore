@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# Runtime artifacts
+.token.enc
+mywallet.txt
+
+# Optional: local environment config
+.env
+.env.*
+
+# Optional: logs (if you add any later)
+*.log
+
+# OS-specific clutter
+.DS_Store
+Thumbs.db
